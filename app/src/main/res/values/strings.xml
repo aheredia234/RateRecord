@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RateRecord</string>
+
+    <string name="cig">Play Cigarette Daydreams</string>
+    <string name="end">Play Waiting for the End</string>
+    <string name="twin">Play Twin Size Mattress</string>
+</resources>
